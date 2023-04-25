@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating a Virtual Private Network in Microsoft Azure</h1>
-In this project, I deployed a virtual private network (VPN) on Microsoft's cloud platform, Azure.<br />
+Summary: In this project, I deployed a virtual private network (VPN) on Microsoft's cloud platform, Azure.<br />
 
 <h2>Requirements</h2>
 
