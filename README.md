@@ -1,4 +1,3 @@
-# azure-vpn
 <p align="center">
 <img src="https://imgur.com/Vxvq35v.png" height="60%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
