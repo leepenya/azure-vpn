@@ -66,7 +66,7 @@ In this project, I deployed a virtual private network (VPN) on Microsoft's cloud
 <p>
 6. Lastly, I used my VM's browser to determine my VM's new IP address and location and verified that they were different not only from my host machine's public IP address and location but also from my VM's original ones.
  </p>
-<p>Thanks for checking out my Azure lab!
+<p>Thanks for checking out my Azure VPN lab!
 </p>
 
 
