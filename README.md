@@ -2,7 +2,7 @@
 <img src="https://imgur.com/Vxvq35v.png" height="60%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1>Creating a Virtual Private Network in Microsoft Azure</h1>
+<h1>Creating a Virtual Private Network in the Cloud</h1>
 Summary: In this project, I deployed a virtual private network (VPN) on Microsoft's cloud platform, Azure.<br />
 
 <h2>Requirements</h2>
